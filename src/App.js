@@ -5,7 +5,6 @@ import F1 from './components/F1';
 function App() {
   return (
     <div>
-      <p>I have made some changes to it</p>
       <F1/>
     </div> 
   );
