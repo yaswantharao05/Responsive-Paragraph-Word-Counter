@@ -1,0 +1,30 @@
+.rounded{
+    height: 550px;
+    width: 680px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.text{
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.textarea{
+    margin: 20px 10px 30px 17px;
+    width: 630px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: x-large;
+    padding: 10px;
+}
+
+.countText{
+    font-size: xx-large;
+    padding-left: 15px;
+    color: gray;
+}
