@@ -45,5 +45,5 @@ This shows the word and character count functionality after entering a sample pa
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/responsive-word-counter.git
+   git clone https://github.com/yaswantharao05/Responsive-Paragraph-Word-Counter.git
    cd responsive-word-counter
