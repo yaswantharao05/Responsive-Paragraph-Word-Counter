@@ -29,7 +29,7 @@ This is the initial view of the app when loaded.
 
 This shows the word and character count functionality after entering a sample paragraph.
 
-![Word Count](./word-count.png)
+![Word Count](./word-count1.png)
 
 ---
 
